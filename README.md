@@ -21,7 +21,7 @@ capaz de reconocer diferentes tipos de productos de belleza
 
 ### Links
 - **Papers:**
-	- proyecto : (https://gitlab.com/everis-innovation/showroom-ia/reconocimiento_cosmeticos)
+	- proyecto : (https://gitlab.com/everis-innovation/showroom-ia/cosmeticos_final)
 
 ### Usage
 
