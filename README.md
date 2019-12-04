@@ -1,4 +1,4 @@
-# PoC-SMARK
+# PoC Reconocimiento de Cosméticos
 
 | Name | Type | Version|
 |---|---|---|
